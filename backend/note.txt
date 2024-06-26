@@ -1,0 +1,6 @@
+
+
+#dabian OS
+apt update
+apt install -y default-mysql-client
+mysql -h mysql -u expense -pExpenseApp@1
